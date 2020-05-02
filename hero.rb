@@ -8,6 +8,10 @@ class Hero
     @name
   end
 
+  def halth
+    @halth
+  end
+
   def power_up
     @halth += 10
   end
