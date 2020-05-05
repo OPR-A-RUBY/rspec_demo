@@ -1,5 +1,7 @@
 require './hero'
 
+# It's line for commit trening
+
 describe Hero do
   
   before do
